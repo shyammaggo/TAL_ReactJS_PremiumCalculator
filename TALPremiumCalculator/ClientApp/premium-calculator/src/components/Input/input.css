@@ -1,0 +1,29 @@
+.mainDiv {
+  text-align: center;
+  padding: 20px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.inputDiv {
+  text-align: left;
+  width: 99%;
+  font-size: 20px;
+  border-radius: 6px;
+  height: 35px;
+  border: 1px solid lightgrey;
+  padding: 5px;
+}
+.labelDiv {
+  text-align: left;
+  font-size: 20px;
+}
+.wrapDiv {
+  margin-top: 20px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+.warningDiv {
+  margin-top: 10px;
+  font-size: 18px;
+  color: red;
+}

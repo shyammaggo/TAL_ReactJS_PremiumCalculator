@@ -1,0 +1,35 @@
+[
+  {
+    "id": "name",
+    "labelName": "Name",
+    "placeHolder": "Enter Your Name",
+    "errorMessage": "Please enter your name.",
+    "type": "text"
+  },
+  {
+    "id": "age",
+    "labelName": "Age",
+    "placeHolder": "Enter Your Age between 0 and 100.",
+    "errorMessage": "Please enter the age between 0 and 100.",
+    "type": "number"
+  },
+  {
+    "id": "dob",
+    "labelName": "Date of Birth",
+    "placeHolder": "Date of Birth",
+    "errorMessage": "Please enter the valid date of birth.",
+    "type": "date"
+  },
+  {
+    "id": "sum",
+    "labelName": "Sum Insured",
+    "placeHolder": "Enter amount between 0 and 100000",
+    "errorMessage": "Please enter the amount between 0 and 100000.",
+    "type": "number"
+  },
+  {
+    "id": "occ",
+    "labelName": "Occupation List",
+    "placeHolder": "Select an occupation to calculate the premium"
+  }
+]
